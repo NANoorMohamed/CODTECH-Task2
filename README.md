@@ -12,7 +12,7 @@
 
 ## Overview of the Project
 
-### Project: 
+### Project: Vulnerability Scanner
 
 ### Objective
 
