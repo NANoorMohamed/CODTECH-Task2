@@ -31,4 +31,6 @@ Focus on common vulnerabilities:
 ### Technologies Used
 You can use Python, Go, or other scripting languages to build the vulnerability scanner. Python is popular due to libraries like scapy, socket, nmap, and others that can help with network scanning.
 
-    Python with nmap (Network Mapper) is a good option because nmap is a widely used tool for discovering hosts and services on a network. You can interact with nmap in Python using the python-nmap library.
+    Python with nmap (Network Mapper) is a good option, 
+    because nmap is a widely used tool for discovering hosts and services on a network. 
+    You can interact with nmap in Python using the python-nmap library.
