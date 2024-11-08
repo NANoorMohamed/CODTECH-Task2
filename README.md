@@ -23,7 +23,7 @@ Build a tool that scans a network or website for common security vulnerabilities
 ### Key Activities
 Vulnerability scanning involves checking systems, networks, or web applications for security weaknesses. The goal is to identify open ports, outdated software, misconfigurations, and other vulnerabilities that could be exploited by attackers.
 
-# Focus on common vulnerabilities:
+#### Focus on common vulnerabilities:
 **Open Ports:** Scan for services that may expose sensitive information or access points.
 
 **Outdated Software:** Identify outdated software versions with known vulnerabilities.
